@@ -15,6 +15,14 @@ ttychat is a terminal GUI (TUI) social media platform designed for developers to
 - Backend: AdonisJS (TypeScript Node.js framework)
 - Database: SQLite
 
+## Roadmap
+
+**Phase 1: TUI Frontend** (Current)
+- Build the terminal user interface using opentui
+
+**Phase 2: Backend** (TBD - Do NOT implement)
+- Backend development is planned but not yet ready for implementation
+
 ## Claude
 
 Claude is an AI assistant that can help with various tasks including:
