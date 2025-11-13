@@ -9,6 +9,7 @@ ttychat is a terminal GUI (TUI) social media platform designed for developers to
 **Tech Stack:**
 - Frontend: TypeScript using the `opentui` library
 - Backend: Node.js with TypeScript (NOT Next.js)
+- Database: SQLite
 
 ## Claude
 
