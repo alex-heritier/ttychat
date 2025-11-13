@@ -6,6 +6,8 @@ Terminal UI (TUI) application for the ttychat social platform.
 
 - **TypeScript** - Type-safe JavaScript
 - **opentui** - Terminal UI library
+- **Vite** - Build tool and dev server
+- **Vitest** - Unit testing framework
 
 ## Project Structure
 
@@ -45,6 +47,22 @@ npm run dev
 
 ```bash
 npm start
+```
+
+### Testing
+
+```bash
+# Run tests in watch mode
+npm test
+
+# Run tests once
+npm run test:run
+
+# Run tests with UI
+npm run test:ui
+
+# Generate coverage report
+npm run coverage
 ```
 
 ## Phase 1 Notes

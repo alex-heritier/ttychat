@@ -8,6 +8,9 @@ dist/
 *.d.ts
 *.d.ts.map
 
+# Test coverage
+coverage/
+
 # Keep source files
 !src/**/*.ts
 
