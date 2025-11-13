@@ -1,0 +1,28 @@
+{
+  "name": "ttychat-frontend",
+  "version": "0.1.0",
+  "description": "Terminal UI for ttychat social platform",
+  "main": "dist/main.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "start": "node dist/main.js",
+    "clean": "rm -rf dist"
+  },
+  "keywords": [
+    "tui",
+    "terminal",
+    "chat",
+    "social"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "opentui": "*"
+  }
+}
