@@ -31,6 +31,6 @@
     "vitest": "^2.0.0"
   },
   "dependencies": {
-    "opentui": "*"
+    "@opentui/core": "^0.1.26"
   }
 }

@@ -5,9 +5,24 @@ Terminal UI (TUI) application for the ttychat social platform.
 ## Tech Stack
 
 - **TypeScript** - Type-safe JavaScript
-- **opentui** - Terminal UI library
+- **@opentui/core** - Terminal UI library for building interactive TUIs
 - **Vite** - Build tool and dev server
 - **Vitest** - Unit testing framework
+
+## Features
+
+- 🚀 Interactive terminal UI with keyboard navigation
+- ⌨️  Real-time keypress detection and display
+- 🎨 Styled boxes and text rendering
+- 🔄 60 FPS rendering for smooth interactions
+
+## Keyboard Controls
+
+- `q` - Quit the application
+- `h` - Show help
+- `c` - Chat (coming in Phase 2)
+- `Ctrl+C` or `ESC` - Exit
+- Any key - Displays the key pressed on screen
 
 ## Project Structure
 
@@ -24,6 +39,10 @@ frontend/
 ```
 
 ## Development
+
+### Prerequisites
+
+**Important:** OpenTUI requires [Zig](https://ziglang.org/download/) to be installed on your system.
 
 ### Install Dependencies
 
