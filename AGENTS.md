@@ -6,6 +6,10 @@ This document describes the AI agents used in this project.
 
 ttychat is a terminal GUI (TUI) social media platform designed for developers to hang out and discuss topics.
 
+**Project Structure:**
+- `frontend/` - Terminal UI application
+- `backend/` - API server
+
 **Tech Stack:**
 - Frontend: TypeScript using the `opentui` library
 - Backend: AdonisJS (TypeScript Node.js framework)
