@@ -19,6 +19,7 @@ ttychat is a terminal GUI (TUI) social media platform designed for developers to
 
 **Phase 1: TUI Frontend** (Current)
 - Build the terminal user interface using opentui
+- API calls are mocked for development
 
 **Phase 2: Backend** (TBD - Do NOT implement)
 - Backend development is planned but not yet ready for implementation
